@@ -7,4 +7,4 @@ In the first day, we were introduced each other and the organizers presented the
 
 Basically, the dataset has nine columns (see figure below):
 
-https://github.com/neli12/screenshots-figures/blob/main/head_data.PNG
+<img src="https://github.com/neli12/screenshots-figures/blob/main/head_data.PNG" width="700" />
