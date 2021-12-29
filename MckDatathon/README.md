@@ -10,4 +10,14 @@ Basically, the dataset has nine columns (see figure below), with 10664209 observ
 <img src="https://github.com/neli12/screenshots-figures/blob/main/head_data.PNG" width="700" />  
 
 From this dataset, new features needed to be created to be able to build and run the model.  
-As a group, we decided to obtain 
+We group the dataset by client and create the following metrics:
+
+- qty_sold_mean: Total quantity purchased in the period of time of the dataset
+- total_price_mean: Average amount of money spent per visit to the store
+- total_visits: Number of visits made to the store in the period of time of the dataset
+- weekday_mode: Mode of the weekday where the client made a purchase
+- weekend_mode: Mode of the weekend where the client made a purchase (dummy values)
+- item_mode: Item purchased the most by each client in the period of time of the dataset
+- category_mode: Category purchased the most by each client in the period of time of the dataset
+- items_mean/visit: Average items purchased per visit
+- mean_purchase_freq: Average frequency of visit to the store
