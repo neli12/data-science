@@ -6,3 +6,5 @@ The first step was to register for the event and then, the organizing commitee p
 In the first day, we were introduced each other and the organizers presented the challenge, which consisted of creating a model to predict the probability that a client will visit a store in the next 7 days, assuming that no communication is sent. The description of the challenge can be found here: https://www.kaggle.com/c/marketcohackaton/overview/description.  
 
 Basically, the dataset has nine columns (see figure below):
+
+https://github.com/neli12/screenshots-figures/blob/main/head_data.PNG
