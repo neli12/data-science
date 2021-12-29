@@ -22,6 +22,7 @@ We group the dataset by client and create the following metrics:
 - items_mean/visit: Average items purchased per visit
 - mean_purchase_freq: Average frequency of visit to the store  
 
+For building the model, we used the Pycaret package, which is a very useful tool where you can find a lot of resources for a better implementation of ML models. After training the dataset, we found that the Quadratic Discriminant Analysis was the best algorithm. We used it to build the model and test it in the validation dataset. 
 We ended up in the 8th place, with a F1 score of 0.63. As they selected the first ten groups, we presented our results in the final presentations. Unfortunately, we didn't have so much time to prepare and I was pretty nervous. The presentation had to last 5 minutes and we presented in less than four.
 
 <img src="https://github.com/neli12/screenshots-figures/blob/main/datathon_results.PNG" width="700" />
