@@ -29,4 +29,6 @@ We ended up in the 8th place, with a F1 score of 0.63. As they selected the firs
 
 My part was to present the marketing strategy. Based on our results, we propose two strategies:
 - Focus on customers who were already going constantly and who bought a lot and,
-- Also consider customers who went less often but who spent a lot each time they went.
+- Also consider customers who went less often but who spent a lot each time they went.  
+
+Althoug we didn't win the prize, it was really a good experience! 
