@@ -20,4 +20,12 @@ We group the dataset by client and create the following metrics:
 - item_mode: Item purchased the most by each client in the period of time of the dataset
 - category_mode: Category purchased the most by each client in the period of time of the dataset
 - items_mean/visit: Average items purchased per visit
-- mean_purchase_freq: Average frequency of visit to the store
+- mean_purchase_freq: Average frequency of visit to the store  
+
+We ended up in the 8th place, with a F1 score of 0.63. As they selected the first ten groups, we presented our results in the final presentations. Unfortunately, we didn't have so much time to prepare and I was pretty nervous. The presentation had to last 5 minutes and we presented in less than four.
+
+<img src="https://github.com/neli12/screenshots-figures/blob/main/datathon_results.PNG" width="700" />
+
+My part was to present the marketing strategy. Based on our results, we propose two strategies:
+- Focus on customers who were already going constantly and who bought a lot and,
+- Also consider customers who went less often but who spent a lot each time they went.
