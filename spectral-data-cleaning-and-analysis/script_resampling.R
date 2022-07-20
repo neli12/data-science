@@ -18,7 +18,8 @@ dat1_matrix <- as.matrix(dat4)
 
 
 spec = as_spectra(dat1_matrix, name_idx = 1)
-spec = resample(spec, new_bands = seq(650, 4000, 5), parallel = FALSE)
+spec = resample(spec, new_bands = seq(650, 4000, 5), parallel = FALSE)  # You can change the third number to your desired spectral resolution. In this case, the spectra is
+#resampled to 5 cm-1. If you want it to be every 1 cm-1, change the number '5' to '1'
   
 spectral <- as.data.frame(spec$value)
 waves <- spec$bands
